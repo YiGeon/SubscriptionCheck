@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349296465170",
+    "firebase_url": "https://subscriptioncheckapp.firebaseio.com",
+    "project_id": "subscriptioncheckapp",
+    "storage_bucket": "subscriptioncheckapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349296465170:android:a50d31872ef50c39074fcb",
+        "android_client_info": {
+          "package_name": "com.yigeon.subscriptioncheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349296465170-h0p893kl3qf44f68cfbucom47669ln2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwFEad7EHJVRzUD2g84Vcgu8YJFzfXN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349296465170-h0p893kl3qf44f68cfbucom47669ln2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

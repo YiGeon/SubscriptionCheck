@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yigeon.subscriptioncheck">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_subs"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_subs_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CreateSubActivity"
+            android:label="서비스 추가 액티비티" />
+        <activity
+            android:name=".ModifySubActivity"
+            android:label="서비스 수정 액티비티" />
+    </application>
+
+</manifest>
